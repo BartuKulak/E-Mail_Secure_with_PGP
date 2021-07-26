@@ -4,7 +4,6 @@ import myIDEA
 import zipfile
 import zlib
 import base64
-import time
 import send
 import getpass
 def server(msg_file, IDEA_key, client_e, client_n, server_d, server_n):
