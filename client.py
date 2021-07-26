@@ -4,7 +4,6 @@ import myIDEA
 import myMD5
 import zlib
 import codecs
-import time
 import receive
 import getpass
 def IDEA_data_process(msg):
