@@ -9,18 +9,18 @@ python3 main.py
 ### After run the code:
 *PGP Encryption Section start*
 
-![img](img\3.jpg)
+![img](img/3.jpg)
 
 after encryption it's wait for input. Senders e-mail address, sender e-mail address's password, receivers e-mail address. Then mail will be send.
 An example for mail:
 
-![img](img\4.jpg)
+![img](img/4.jpg)
 
 *PGP Encryption Section ends*
 
 *PGP Decryption Section start*
 
-![img](img\5.jpg)
+![img](img/5.jpg)
 
 After mail sent decryption section will be start. It ask for receivers mail address and password for reading encrypted message from mail sended in encryption section. Then decrypt the message and write decrypted message to terminal.
 
